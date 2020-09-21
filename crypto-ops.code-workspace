@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "name": "workspace",
+            "path": "."
+        },
+        {
+            "path": "pkgs/trezor_agent_recovery"
+        }
+    ],
+    "settings": {
+        "nixEnvSelector.nixShellConfig": "${workspaceRoot}/shell.nix"
+    }
+}
